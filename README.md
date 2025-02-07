@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Irina Valkova
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Programming Fundamentals with JavaScript
+- 👀 I’m interested in QA  and JavaScript
+- 🌱 I’m currently learning QA Fundamentals and Manual Testing
 - 📫 How to reach me irinavvv@gmail.com
 
 <!---
