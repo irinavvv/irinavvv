@@ -1,4 +1,4 @@
-## Hi, I'm Irina Valkova 👋
+## Hi, I'm Irina Veliova 👋
 
 💻 Junior QA Automation Engineer in training  
 
