@@ -1,7 +1,48 @@
-- 👋 Hi, I’m Irina Valkova
-- 👀 I’m interested in QA  and JavaScript
-- 🌱 I’m currently learning QA Fundamentals and Manual Testing
-- 📫 How to reach me irinavvv@gmail.com
+## Hi, I'm Irina Valkova 👋
+
+💻 Junior QA Automation Engineer in training  
+
+🔎 I am passionate about software quality and test automation.  
+Currently expanding my skills in QA automation, API testing and modern testing tools.
+
+---
+
+### 🧪 QA Skills
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- Test Documentation
+- Exploratory Testing
+
+---
+
+### ⚙️ Automation & Tools
+- Selenium WebDriver
+- Playwright
+- NUnit
+- Postman / REST API testing
+- Git & GitHub
+- Jira
+- SQL
+
+---
+
+### 💻 Programming
+- C#
+- JavaScript
+- Basic OOP concepts
+- Test Automation Frameworks
+
+---
+
+### 📚 Education
+🎓 Software University (SoftUni)  
+QA Fundamentals & QA Automation
+
+---
+
+### 📫 How to reach me
+📧 irinavvv@gmail.com
 
 <!---
 irinavvv/irinavvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
