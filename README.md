@@ -42,7 +42,7 @@ QA Fundamentals & QA Automation
 ---
 
 ### 📫 How to reach me
-📧 irinavvv@gmail.com
+📧 	veliovairina@gmail.com
 
 <!---
 irinavvv/irinavvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
